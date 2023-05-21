@@ -21,10 +21,6 @@ O código da aplicação foi desenvolvido com as seguintes tecnologias:
 - [dotenv](https://.npmjs.com/package/dotenv) 
 - [nodemon](https://.npmjs.com/package/nodemon) - Servidor de monitoramento Node para desenvolvimento
 
-### ⚡ Técnica/Arquitetura
-
-- [N-Tier Architecture](https://www.baeldung.com/cs/n-tier-architecture)
-
 ## :information_source: Passo-a-passo
 
 Para clonar e rodar a aplicação, será necessário [Git](https://git-scm.com), [Node.js v14.16](https://nodejs.org/en/) ou versão mais recente + [NPM v8](https://nodejs.org/en/) ou mais recente instalados. 
