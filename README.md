@@ -21,7 +21,7 @@ O código da aplicação foi desenvolvido com as seguintes tecnologias:
 - [dotenv](https://.npmjs.com/package/dotenv) 
 - [nodemon](https://.npmjs.com/package/nodemon) - Servidor de monitoramento Node para desenvolvimento
 
-### 🥷 Técnica/Arquitetura
+### ⚡ Técnica/Arquitetura
 
 - [N-Tier Architecture](https://www.baeldung.com/cs/n-tier-architecture)
 
