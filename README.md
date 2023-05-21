@@ -1,10 +1,10 @@
-## 🧩 **Projeto desenvolvido para estudo pessoal.**
+### 🧩 **Projeto desenvolvido para estudo pessoal.**
 
 ### 🎯 Desafio
 
 Criar uma API em Node que consome a API da openAI, a fim de utilizar a funcionalidade de 'text completion' do **ChatGPT**.
 
-### 🛸 Tecnologias
+## 🛸 Tecnologias
 
 O código da aplicação foi desenvolvido com as seguintes tecnologias:
 
