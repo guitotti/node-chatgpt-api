@@ -6,9 +6,7 @@ Criar uma API em Node que consome a API da openAI, a fim de utilizar a funcional
 
 ## 🛸 Tecnologias
 
-O código da aplicação foi desenvolvido com as seguintes tecnologias:
-
-### ⚛️
+### ⚛️ O código da aplicação foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
